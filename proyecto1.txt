@@ -1,2 +1,4 @@
 def saludar():
 	print("Hola todos")
+	print("Me quiero morir")
+saludar()
